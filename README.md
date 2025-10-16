@@ -39,3 +39,7 @@ scripts/ → Project setup / automation scripts
 4. Run the development server:
 
     npm run dev
+
+# hosted link
+
+https://investiwise-app.vercel.app/
