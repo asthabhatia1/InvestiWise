@@ -4,7 +4,7 @@ A [Next.js](https://nextjs.org/) application with TypeScript, Tailwind CSS, and 
 
 Investing is scattered across platforms, making decision-making harder.InvestiWise, Analyzes historical data and trends of stocks and cryptocurrencies and ecommends the best assets to invest in based on real-time AI analysis.
 
-# Tech Stack
+# Tech Stack used
 - [Next.js 14](https://nextjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
